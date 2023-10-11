@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Setting Up The Backend-Part 1",
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful"],
+    "description": "In these session instructor show how to start building the backend for MAD2 Project. He sets up the models and api in the project",
+    "session_link": "https://www.youtube.com/watch?v=Nn_TlFsFNJk",
+    "git_repo": "https://github.com/narendraiitm/study_resource_management"
+  }
+]
