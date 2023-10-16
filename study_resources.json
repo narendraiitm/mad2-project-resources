@@ -2,8 +2,15 @@
   {
     "title": "Setting Up The Backend-Part 1",
     "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful"],
-    "description": "In these session instructor show how to start building the backend for MAD2 Project. He sets up the models and api in the project",
+    "description": "In this session instructor shows how to start building the backend for MAD2 Project. He sets up the models and api in the project",
     "session_link": "https://www.youtube.com/watch?v=Nn_TlFsFNJk",
+    "git_repo": "https://github.com/narendraiitm/study_resource_management"
+  },
+  {
+    "title": "Setting Up Flask-Security",
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too],
+    "description": "In this session instructor showed how setup flask security too in the application",
+    "session_link": "https://www.youtube.com/watch?v=jpRLhapOQ0c",
     "git_repo": "https://github.com/narendraiitm/study_resource_management"
   }
 ]
