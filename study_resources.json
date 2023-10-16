@@ -8,7 +8,7 @@
   },
   {
     "title": "Setting Up Flask-Security",
-    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too],
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too"],
     "description": "In this session instructor showed how setup flask security too in the application",
     "session_link": "https://www.youtube.com/watch?v=jpRLhapOQ0c",
     "git_repo": "https://github.com/narendraiitm/study_resource_management"
