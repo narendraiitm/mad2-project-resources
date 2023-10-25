@@ -12,5 +12,12 @@
     "description": "In this session instructor showed how setup flask security too in the application",
     "session_link": "https://www.youtube.com/watch?v=jpRLhapOQ0c",
     "git_repo": "https://github.com/narendraiitm/study_resource_management"
+  },
+  {
+    "title": "Adding Frontend to the app",
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too", "vue", "vue-router"],
+    "description": "In this session instructor showed how to add Vue in the flask app",
+    "session_link": "https://www.youtube.com/watch?v=--o8y9ysqOc",
+    "git_repo": "https://github.com/narendraiitm/study_resource_management"
   }
 ]
