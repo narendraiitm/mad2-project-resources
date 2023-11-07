@@ -26,5 +26,12 @@
     "description": "This is a follow-up session of Adding Frontend to the app",
     "session_link": "https://www.youtube.com/watch?v=wPJSC-KfzIY",
     "git_repo": "https://github.com/narendraiitm/study_resource_management"
+  },
+  {
+    "title": "Frontend Part3",
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too", "vue", "vue-router"],
+    "description": "This is a follow-up session of Frontend Part2",
+    "session_link": "https://www.youtube.com/watch?v=aOOdGTHqdaM",
+    "git_repo": "https://github.com/narendraiitm/study_resource_management"
   }
 ]
