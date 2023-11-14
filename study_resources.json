@@ -33,5 +33,12 @@
     "description": "This is a follow-up session of Frontend Part2",
     "session_link": "https://www.youtube.com/watch?v=aOOdGTHqdaM",
     "git_repo": "https://github.com/narendraiitm/study_resource_management"
+  },
+  {
+    "title": "Celery Integration",
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too", "vue", "vue-router", "Flask-Excel", "Celery", "Redis"],
+    "description": "In this session, you will learn how to integrate celery in the application",
+    "session_link": "https://www.youtube.com/watch?v=7ECBdgOSiEU",
+    "git_repo": "https://github.com/narendraiitm/study_resource_management"
   }
 ]
