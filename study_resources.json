@@ -47,5 +47,12 @@
     "description": "In this session, you will learn how to send emails and schedule a job",
     "session_link": "https://www.youtube.com/watch?v=MQaydkBd1uY",
     "git_repo": "https://github.com/narendraiitm/study_resource_management"
+  },
+  {
+    "title": "Flask Caching Integration",
+    "topics": ["Flask", "Flask-Sqlalchemy", "Flask-Restful", "flask-Security-too", "vue", "vue-router", "Flask-Excel", "Celery", "Redis", "flask-caching"],
+    "description": "In this session, you will learn how to set a caching layer in your application",
+    "session_link": "https://www.youtube.com/watch?v=qxE9gHhJNdo",
+    "git_repo": "https://github.com/narendraiitm/study_resource_management"
   }
 ]
